@@ -60,12 +60,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-| <a href="https://github.com/salehshahverdiyev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salehshahverdiyev&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Saleh's github stats" /></a> | <a href="https://github.com/salehshahverdiyev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehshahverdiyev&layout=compact&theme=vision-friendly-dark" /></a> |
+| <a href="https://github.com/salehshahverdiyev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salehshahverdiyev&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Saleh's github stats" /></a> | <a href="https://github.com/salehshahverdiyev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehshahverdiyev&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salehshahverdiyev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **salehshahverdiyev/salehshahverdiyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
