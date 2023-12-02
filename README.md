@@ -60,7 +60,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-| <a href="https://github.com/salehshahverdiyev"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salehshahverdiyev&theme=dark&hide_border=true" /></a> | <a href="https://github.com/salehshahverdiyev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehshahverdiyev&theme=hide_border=true)](https://github.com/salehshahverdiyev/github-readme-stats" alt="Saleh's github stats"/></a> |
+| <a href="https://github.com/salehshahverdiyev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salehshahverdiyev&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Saleh's github stats" /></a> | <a href="https://github.com/salehshahverdiyev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehshahverdiyev&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!--
