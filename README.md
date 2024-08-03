@@ -26,7 +26,7 @@
 
 ### :man_technologist: About Me :
 I am a Software Development Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaijan.
-- :telescope: I’m studying in Foundations of Computer Science program at Holberton School.
+- :telescope: I’m studying in Machine Learning Specilization program at Holberton School.
 
 - :zap: In my free time, I solve problems,read tech articles and play videogames.
 
