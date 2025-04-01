@@ -25,9 +25,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Software Development Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaijan.
-- :telescope: I’m studying in Machine Learning Specilization program at Holberton School.
-
+I am a Coder <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Azerbaijan.
 - :zap: In my free time, I solve problems,read tech articles and play videogames.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/salehshahverdiyev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/salehshahverdiyev/)
@@ -57,8 +55,8 @@ I am a Software Development Enthusiast <img src="https://media.giphy.com/media/W
 ---
 
 ### :fire: My Stats :
-| <a href="https://github.com/salehshahverdiyev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salehshahverdiyev&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Saleh's github stats" /></a> | <a href="https://github.com/salehshahverdiyev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehshahverdiyev&layout=compact&theme=dark&hide_border=true" /></a> | <a href="#"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Saleh Shahverdiyev's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=salehshahverdiyev&theme=dark&hide_border=true"/></a> |
-| ------------- | ------------- | ------------- |
+| <a href="https://github.com/salehshahverdiyev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=salehshahverdiyev&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Saleh's github stats" /></a> | <a href="https://github.com/salehshahverdiyev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehshahverdiyev&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
